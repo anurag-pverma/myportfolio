@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.c07bf4b4.chunk.css",
-    "main.js": "./static/js/main.075b1d7b.chunk.js",
-    "main.js.map": "./static/js/main.075b1d7b.chunk.js.map",
+    "main.js": "./static/js/main.431375cc.chunk.js",
+    "main.js.map": "./static/js/main.431375cc.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.cc1135e7.js",
     "runtime-main.js.map": "./static/js/runtime-main.cc1135e7.js.map",
     "static/css/2.e44fbca6.chunk.css": "./static/css/2.e44fbca6.chunk.css",
-    "static/js/2.2eb9dc0f.chunk.js": "./static/js/2.2eb9dc0f.chunk.js",
-    "static/js/2.2eb9dc0f.chunk.js.map": "./static/js/2.2eb9dc0f.chunk.js.map",
+    "static/js/2.c75f8da2.chunk.js": "./static/js/2.c75f8da2.chunk.js",
+    "static/js/2.c75f8da2.chunk.js.map": "./static/js/2.c75f8da2.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.e44fbca6.chunk.css.map": "./static/css/2.e44fbca6.chunk.css.map",
     "static/css/main.c07bf4b4.chunk.css.map": "./static/css/main.c07bf4b4.chunk.css.map",
-    "static/js/2.2eb9dc0f.chunk.js.LICENSE.txt": "./static/js/2.2eb9dc0f.chunk.js.LICENSE.txt",
+    "static/js/2.c75f8da2.chunk.js.LICENSE.txt": "./static/js/2.c75f8da2.chunk.js.LICENSE.txt",
     "static/media/bottom.5037b372.svg": "./static/media/bottom.5037b372.svg",
-    "static/media/cropped.a01f312d.png": "./static/media/cropped.a01f312d.png",
     "static/media/css.60a6c50d.svg": "./static/media/css.60a6c50d.svg",
     "static/media/day.cd6648ba.svg": "./static/media/day.cd6648ba.svg",
     "static/media/envelope.2a333431.svg": "./static/media/envelope.2a333431.svg",
@@ -28,15 +27,14 @@
     "static/media/node.38d424a0.svg": "./static/media/node.38d424a0.svg",
     "static/media/react.e5f031c5.svg": "./static/media/react.e5f031c5.svg",
     "static/media/redux.0e4fb1c8.svg": "./static/media/redux.0e4fb1c8.svg",
-    "static/media/resumeFinal.ee50b166.png": "./static/media/resumeFinal.ee50b166.png",
     "static/media/sceneOne.b9eb96d1.svg": "./static/media/sceneOne.b9eb96d1.svg",
     "static/media/sceneOneDark.2d8044dc.svg": "./static/media/sceneOneDark.2d8044dc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cc1135e7.js",
     "static/css/2.e44fbca6.chunk.css",
-    "static/js/2.2eb9dc0f.chunk.js",
+    "static/js/2.c75f8da2.chunk.js",
     "static/css/main.c07bf4b4.chunk.css",
-    "static/js/main.075b1d7b.chunk.js"
+    "static/js/main.431375cc.chunk.js"
   ]
 }
