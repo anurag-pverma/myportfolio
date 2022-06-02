@@ -38,9 +38,9 @@ function Footer() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/therealdrtroll/akshay-kadam-portfolio-two"
+            href="https://github.com/anurag-pverma/myportfolio"
           >
-            <button>Source Code</button>
+            <button>View Source Code</button>
           </a>
         </p>
       </ParagraphWrapper>

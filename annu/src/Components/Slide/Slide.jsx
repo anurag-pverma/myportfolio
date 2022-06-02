@@ -3,15 +3,14 @@ import styled from "styled-components";
 import Projects from "./Projects/Projects";
 import TimeLine from "./TimeLine/TimeLine";
 import Skillset from "./Skills/Skillset";
+import { Link } from "react-router-dom";
 
 import { ParagraphWrapper } from "../Elements/Elements";
 
 import envelope from "../Images/envelope.svg";
 import envelopeBottom from "../Images/bottom.svg";
 
-//resume images
 
-import resumeFinal from "../Images/resumeFinal.png";
 
 const SliderWrapper = styled.div`
   /* background-color: ${(props) => props.theme.body};
@@ -173,16 +172,16 @@ function Slide({ currentTheme }) {
                 <ParagraphWrapper>
                   <p>Need a copy?</p>
                 </ParagraphWrapper>
-                <a
+                <Link
                   target="_blank"
                   rel="noreferrer"
-                  href="https://docs.google.com/document/d/1mgZIxAp2025z5Zba__n9p1tmteNcf3i1PDKCzeydbA8/edit"
+                  to="/files/anuragverma-resume.pdf"
                   download
                 >
                   <ResumeButton>
                     <span> Download</span>
                   </ResumeButton>
-                </a>
+                </Link>
               </ResumeAction>
             </Envelope>
           </div>

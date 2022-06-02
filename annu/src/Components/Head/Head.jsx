@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Navigation from "./Navigation";
 import Lottie from "react-lottie";
 import scroll from "../Animations/scrollDown.json";
-import ak from "../Images/cropped.png";
+// import ak from "../Images/cropped.png";
 
 import { MainHeadingWrapper, ParagraphWrapper } from "../Elements/Elements";
 
