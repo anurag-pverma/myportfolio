@@ -170,7 +170,7 @@ function Head({ currentTheme, themeToggler }) {
             </ActionsDiv>
           </Heading>
           <Profile>
-            <img src="https://avatars.githubusercontent.com/u/94588992?v=4" alt="profile"></img>
+            <img src="https://avatars.githubusercontent.com/u/94588992?s=400&u=10fc314deae4179587c13bb1ce11493f5d98f8cd&v=4" alt="profile"  height={"200px"} width={"200px"}></img>
           </Profile>
         </HeaderContent>
         <Scroller>
