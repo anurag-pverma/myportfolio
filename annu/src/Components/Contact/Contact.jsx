@@ -1,10 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-// import phone from "../Icons/phone.svg";
-// import gmail from "../Icons/gmail.svg";
-// import github from "../Icons/github.svg";
-// import linkedin from "../Icons/linkedin.svg";
-// import medium from "../Icons/medium.svg";
+
 
 import { MainHeadingWrapper} from "../Elements/Elements";
 import { ToastContainer, toast } from "react-toastify";
@@ -12,8 +8,8 @@ import "react-toastify/dist/ReactToastify.css";
 import emailjs from "emailjs-com";
 
 const ContactWrapper = styled.div`
-  /* background-color: ${(props) => props.theme.body};
-  color: ${(props) => props.theme.fontColor}; */
+  background-color: ${(props) => props.theme.body};
+  color: ${(props) => props.theme.fontColor};
   padding: 150px 0;
   > div:nth-child(1) {
     padding-bottom: 80px;
@@ -91,7 +87,7 @@ const FindMeElseWhere = styled.div`
   }
   i {
     font-size: 25px;
-    // color: ${(props) => props.theme.fontColor};
+     color: ${(props) => props.theme.fontColor};
     color: ${(props) => props.theme.secondary};
   }
 `;
@@ -245,7 +241,6 @@ function Contact({ currentTheme }) {
                 rel="noreferrer"
                 href="https://github.com/anurag-pverma"
               >
-                {/* <i className="fab fa-github-square"></i> */}
                 <i className="fab fa-github"></i>
               </a>
             </div> 

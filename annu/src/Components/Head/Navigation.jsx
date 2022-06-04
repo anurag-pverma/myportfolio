@@ -13,10 +13,10 @@ const NavBar = styled.div`
   height: 7vh;
   z-index: 1000;
   transition: all 300ms ease-out;
-  /* background-color: ${(props) => props.theme.body};
-  color: ${(props) => props.theme.fontColor}; */
-  /* background-color: inherit;
-  color: inherit; */
+  background-color: ${(props) => props.theme.body};
+  color: ${(props) => props.theme.fontColor}; 
+  background-color: inherit;
+  color: inherit;
   background-color: black;
   color: silver;
   position: fixed;
@@ -74,11 +74,11 @@ function Navigation({ themeToggler, currentTheme }) {
   return (
     <NavBar active={activeLink}>
       <Grow></Grow>
+      <NavItem onClick={() => activeLinkHandler(3)}>
+        <a href="#home">home</a>
+      </NavItem>
       <NavItem onClick={() => activeLinkHandler(6)}>
         <a href="#about">About</a>
-      </NavItem>
-      <NavItem onClick={() => activeLinkHandler(3)}>
-        <a href="#projects">Projects</a>
       </NavItem>
       <NavItem onClick={() => activeLinkHandler(5)}>
         <a href="#resume">Resume</a>

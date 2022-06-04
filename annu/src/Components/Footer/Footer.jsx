@@ -7,8 +7,8 @@ const FooterWrapper = styled.div`
   min-height: 7vh;
   display: grid;
   place-items: center;
-  /* background-color: ${(props) => props.theme.body};
-  color: ${(props) => props.theme.fontColor}; */
+  background-color: ${(props) => props.theme.body};
+  color: ${(props) => props.theme.fontColor};
   span {
     margin: 0 20px;
   }

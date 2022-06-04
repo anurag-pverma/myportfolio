@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-// import ak from "../Images/ak.png";
 
 import {
   MainHeadingWrapper,
@@ -12,8 +11,8 @@ const Wrapper = styled.div`
   padding: 50px 0;
   width: 100%;
   margin: 0px auto;
-  /* background-color: ${(props) => props.theme.body};
-  color: ${(props) => props.theme.fontColor}; */
+  background-color: ${(props) => props.theme.body};
+  color: ${(props) => props.theme.fontColor};
 `;
 
 const Content = styled.div`

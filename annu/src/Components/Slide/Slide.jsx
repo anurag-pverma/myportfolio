@@ -13,8 +13,8 @@ import envelopeBottom from "../Images/bottom.svg";
 
 
 const SliderWrapper = styled.div`
-  /* background-color: ${(props) => props.theme.body};
-  color: ${(props) => props.theme.fontColor}; */
+  background-color: ${(props) => props.theme.body};
+  color: ${(props) => props.theme.fontColor};
 `;
 
 const SlideMain = styled.div`
@@ -114,10 +114,10 @@ const ResumeButton = styled.button`
   border: none;
   border-radius: 5px;
   margin: 10px;
-  /* background-color: ${(props) => props.theme.body}; */
+  background-color: ${(props) => props.theme.body};
   background-color: #0a090a;
   color: white;
-  /* color: ${(props) => props.theme.fontColor}; */
+  color: ${(props) => props.theme.fontColor};
 
   span {
     font-weight: 600;

@@ -18,8 +18,8 @@ const BridgeTwo = styled.div`
   padding-top: 150px;
   width: 100%;
   margin: 0 auto;
-  /* background-color: ${(props) => props.theme.body};
-  color: ${(props) => props.theme.fontColor}; */
+  background-color: ${(props) => props.theme.body};
+  color: ${(props) => props.theme.fontColor};
 
   /* min-height: 400px; */
   z-index: 99;

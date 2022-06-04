@@ -55,8 +55,8 @@ const ProjectImage = styled.figure`
 `;
 
 const ReadMoreButton = styled.button`
-  /* color: ${(props) => props.theme.fontColor};
-  background-color: ${(props) => props.theme.body}; */
+  color: ${(props) => props.theme.fontColor};
+  background-color: ${(props) => props.theme.body};
   border: 1px solid ${(props) => props.theme.fontColor};
   padding: 10px 15px;
   border-radius: 5px;

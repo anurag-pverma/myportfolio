@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const TopWrapper = styled.a`
   padding: 0;
-  /* background-color: ${(props) => props.theme.secondary}; */
+  background-color: ${(props) => props.theme.secondary};
   font-size: 30px;
   border-radius: 5px;
   padding: 3px 10px;

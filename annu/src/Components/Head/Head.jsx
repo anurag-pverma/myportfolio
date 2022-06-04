@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Navigation from "./Navigation";
 import Lottie from "react-lottie";
 import scroll from "../Animations/scrollDown.json";
-// import ak from "../Images/cropped.png";
+
 
 import { MainHeadingWrapper, ParagraphWrapper } from "../Elements/Elements";
 
@@ -17,11 +17,11 @@ const scrollOptions = {
 };
 
 const Wrapper = styled.div`
-  /* background-color: ${(props) => props.theme.body};
+  background-color: ${(props) => props.theme.body};
   color: ${(props) => props.theme.fontColor};
   background: url(${(props) => props.theme.header});
   background-repeat: no-repeat;
-  background-size: cover; */
+  background-size: cover;
 `;
 
 const Header = styled.div`
@@ -41,7 +41,7 @@ const HeaderContent = styled.div`
   margin: 0px auto;
   justify-content: space-between;
   align-items: center;
-  /* background-color: #03192c; */
+  background-color: #03192c;
   padding: 50px;
   > div {
     margin: 20px auto;

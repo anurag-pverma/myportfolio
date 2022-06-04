@@ -56,8 +56,8 @@ const ProjectDetailWrapper = styled.div`
   overflow: auto;
   border-radius: 5px;
   margin: 0 auto;
-  /* background-color: ${(props) => props.theme.body};
-  color: ${(props) => props.theme.fontColor}; */
+  background-color: ${(props) => props.theme.body};
+  color: ${(props) => props.theme.fontColor};
   animation: ${entranceAnimation} 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
   h1 {
     padding: 0;

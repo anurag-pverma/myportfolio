@@ -6,8 +6,8 @@ import { ChronoTimeline } from "./TimelineElements";
 const SlideSectionOne = styled.div`
   padding: 50px 0;
   width: 80%;
-  /* background-color: ${(props) => props.theme.body};
-  color: ${(props) => props.theme.fontColor}; */
+  background-color: ${(props) => props.theme.body};
+  color: ${(props) => props.theme.fontColor};
   margin: 0 auto;
 `;
 
@@ -18,8 +18,8 @@ const BridgeOne = styled.div`
   left: 0;
   width: 100%;
   margin: 0 auto;
-  /* background-color: ${(props) => props.theme.body};
-  color: ${(props) => props.theme.fontColor}; */
+  background-color: ${(props) => props.theme.body};
+  color: ${(props) => props.theme.fontColor};
   z-index: 99;
   display: flex;
   flex-direction: column;
