@@ -101,6 +101,36 @@ let projectArray = [
       "Contact page",
     ],
   },
+  // third project 
+  {
+    img: "https://github.com/anurag-pverma/personal/blob/main/Screenshot%20(122).png?raw=true",
+    title: "Hotstar-clone",
+    description: "Clone of hotstar movie app where user can check movies related information search according to own querry",
+    techStack: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+    
+     
+    ],
+    repoLink: "https://github.com/anurag-pverma/MovieApp",
+    demoLink: "https://horror-start.netlify.app/",
+    type: "Solo project",
+    blogLink: "#",
+    features: [
+      "Beautiful Homepage with product list",
+      
+      "User Can search Movie according to movie name",
+      "Users can can read movie information ",
+     
+    
+    ],
+    responsibilities: [
+      "Home page ",
+      "Seach bar",
+      "Design",
+    ],
+  },
 
 
 
