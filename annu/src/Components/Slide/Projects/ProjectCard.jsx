@@ -12,6 +12,8 @@ const ProjectCardWrapper = styled.div`
   align-items: center;
   margin: 20px;
   border-radius: 5px;
+  scroll-behavior: auto;
+  
 
   /* box-shadow: -1px 1px 10px #9e9b9b; */
 

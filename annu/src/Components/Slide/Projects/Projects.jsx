@@ -131,6 +131,35 @@ let projectArray = [
       "Design",
     ],
   },
+  {
+    img: "https://github.com/anurag-pverma/personal/blob/main/timecamp.png?raw=true",
+    title: "Clone-TimeCamp",
+    description: "TimeCamp is a simple, yet feature-rich time tracking app to help you gain insights into yourprojects and tasks",
+    techStack: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+    
+     
+    ],
+    repoLink: "https://github.com/iamdebobrota/Timecamp-Clone",
+    demoLink: "https://timecamp.vercel.app/",
+    type: "Group Project",
+    blogLink: "#",
+    features: [
+      "Beautiful Homepage with  Feature , Pricing Blog & Login SignUp Section",
+      
+      "User can login/ Signup and perform some task",
+      "Users can  see the time and manage the time",
+     
+    
+    ],
+    responsibilities: [
+      "User Task Page",
+      "Tag",
+      "User , Projects",
+    ],
+  },
 
 
 
