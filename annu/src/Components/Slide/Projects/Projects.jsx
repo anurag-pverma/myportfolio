@@ -43,7 +43,7 @@ const BridgeTwo = styled.div`
 
 let projectArray = [
   {
-    img: "https://github.com/anurag-pverma/personal/blob/main/Screenshot%20(90).png?raw=true",
+    img: "https://camo.githubusercontent.com/3b918e247b0c79fc78b7fd6da0e5d2f2521b917f160da34268243d9278f5e34b/68747470733a2f2f692e6962622e636f2f6e77525a43547a2f332e706e67",
     title: "SugarCosmetics",
     description: "E-Commerce shop",
     techStack: [
@@ -132,7 +132,7 @@ let projectArray = [
     ],
   },
   {
-    img: "https://github.com/anurag-pverma/personal/blob/main/timecamp.png?raw=true",
+    img: "https://github.com/iamdebobrota/Timecamp-Clone/raw/main/screenshots/timecamp1.png",
     title: "Clone-TimeCamp",
     description: "TimeCamp is a simple, yet feature-rich time tracking app to help you gain insights into yourprojects and tasks",
     techStack: [
