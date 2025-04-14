@@ -12,7 +12,10 @@ const About = () => {
     >
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold">About Me</h2>
-        <p className="mt-4">Dynamic and results-driven Frontend Developer with over 2 years of experience in building responsive, user-friendly websites and web applications, specializing in email marketing, digital marketing, and marketing automation tools...</p>
+        <p className="mt-4"> and
+          
+          this is about page only
+          .</p>
       </div>
     </motion.section>
   );
