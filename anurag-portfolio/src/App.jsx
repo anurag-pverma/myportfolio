@@ -18,7 +18,6 @@ function App() {
       <Project/>
       <Contact/>
       <Footers/>
-    
     </div>
   )
 }
